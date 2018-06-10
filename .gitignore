@@ -1,3 +1,7 @@
+# file output
+output.txt
+
+# ruby stuff
 *.gem
 *.rbc
 /.config
